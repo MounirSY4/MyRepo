@@ -1,4 +1,4 @@
-public class GridViewer {
+public class Viewer {
     public static void view(int[][] grid) {
         for(int i = 0; i < grid.length; i++)
         {
